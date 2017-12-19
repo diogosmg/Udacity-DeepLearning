@@ -1,0 +1,5 @@
+"Instruções para configuração do projeto"
+
+	- conda env create -f environment_win.yml
+	- Isso criará um ambiente chamado dlnd-tf-lab. Você pode entrar no ambiente com o comando: activate dlnd-tf-lab   # todos os pacotes ja estarao instalados nesse environment
+	

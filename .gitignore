@@ -1,0 +1,4 @@
+notMNIST_train.zip.part
+notMNIST_test.zip
+/intro-to-tensorflow/*.pickle
+/intro-to-tensorflow/notMNIST_train.zip
