@@ -5,3 +5,6 @@ notMNIST_test.zip
 /2-image-classification/cifar-10-batches-py/*
 *.zip
 /2-image-classification/*.gz
+/face_generation/data
+/face_generation/.ipynb_checkpoints
+/face_generation/__pycache__
